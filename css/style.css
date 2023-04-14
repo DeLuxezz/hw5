@@ -91,11 +91,11 @@ title{
 .barash::before{
     content: '';
     background-image: url('../images/img04.png');
-    position: absolute;
+    position: fixed;
     width: 199px;
     height: 177px;
-    bottom: -97px;
-    left: -153px;
+    bottom: 115px;
+    left: 120px;
     background-size: cover;
 }
 
